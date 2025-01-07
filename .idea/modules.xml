@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Factory_Design_pattern/Factory_Design_pattern.iml" filepath="$PROJECT_DIR$/Factory_Design_pattern/Factory_Design_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/System_Design_WorkShop.iml" filepath="$PROJECT_DIR$/.idea/System_Design_WorkShop.iml" />
+    </modules>
+  </component>
+</project>
